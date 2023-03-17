@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mock-whiteboard/static/css/main.073c9b0a.css",
+    "main.js": "/mock-whiteboard/static/js/main.d40fbd8e.js",
+    "static/js/787.4691dda2.chunk.js": "/mock-whiteboard/static/js/787.4691dda2.chunk.js",
+    "static/media/logo.svg": "/mock-whiteboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mock-whiteboard/index.html",
+    "main.073c9b0a.css.map": "/mock-whiteboard/static/css/main.073c9b0a.css.map",
+    "main.d40fbd8e.js.map": "/mock-whiteboard/static/js/main.d40fbd8e.js.map",
+    "787.4691dda2.chunk.js.map": "/mock-whiteboard/static/js/787.4691dda2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d40fbd8e.js"
+  ]
+}
