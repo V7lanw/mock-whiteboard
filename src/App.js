@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Whiteboard from './Whiteboard';
+import CodeEditor from './CodeEditor';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       </header>
       <h3>This is end of header</h3>
       <Whiteboard />
+      <CodeEditor />
     </div>
   );
 }

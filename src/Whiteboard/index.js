@@ -67,7 +67,7 @@ const Whiteboard = () => {
     };
 
     return (<div>
-        <h3>This is begin of Whiteboard index</h3>
+        <h3>This is the begin of Whiteboard index</h3>
         <div className="button-wrapper">
             <Button
                 className="update-scene"
